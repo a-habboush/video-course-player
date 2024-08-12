@@ -7,7 +7,7 @@ const lecture3 = document.getElementById('lec3');
 const lecture4 = document.getElementById('lec4');
 const lecture5 = document.getElementById('lec5');
 
-
+lecture1.classList.add('active');
 
 lecture1.addEventListener('click',() => {
     
